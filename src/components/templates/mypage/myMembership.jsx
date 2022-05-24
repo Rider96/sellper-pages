@@ -145,7 +145,9 @@ function MyMembership() {
                     price={"29,800"}
                     content01={"셀퍼의 중요한 기능들을 체험할 수 있는"}
                     content02={"합리적인 멤버십 입니다!"}
-                    imgSrc={"/assets/images/membership/standard.png"}
+                    imgSrc={
+                      "sellper-pages/assets/images/membership/standard.png"
+                    }
                   />
                   <MsCardM
                     onClick={() => {
@@ -160,7 +162,7 @@ function MyMembership() {
                     price={"19,800"}
                     content01={"꼭 필요한 기능만 간단하게"}
                     content02={"시작하고 싶다면 이용해보세요!"}
-                    imgSrc={"/assets/images/membership/basic.png"}
+                    imgSrc={"sellper-pages/assets/images/membership/basic.png"}
                   />
                   <MsCardM
                     onClick={() => {
@@ -175,7 +177,9 @@ function MyMembership() {
                     price={"99,800"}
                     content01={"셀퍼만의 스마트한 기능들을"}
                     content02={"제약 없이 무제한으로 사용해보세요!"}
-                    imgSrc={"/assets/images/membership/premium.png"}
+                    imgSrc={
+                      "sellper-pages/assets/images/membership/premium.png"
+                    }
                     marginBottom={16}
                   />
                 </div>
@@ -202,7 +206,7 @@ function MyMembership() {
                     price={"19,800"}
                     content01={"꼭 필요한 기능만 간단하게"}
                     content02={"시작하고 싶다면 이용해보세요!"}
-                    imgSrc={"/assets/images/membership/basic.png"}
+                    imgSrc={"sellper-pages/assets/images/membership/basic.png"}
                   />
                   <MSCard
                     onClick={() => {
@@ -217,7 +221,9 @@ function MyMembership() {
                     price={"29,800"}
                     content01={"셀퍼의 중요한 기능들을 체험할 수 있는"}
                     content02={"합리적인 멤버십 입니다!"}
-                    imgSrc={"/assets/images/membership/standard.png"}
+                    imgSrc={
+                      "sellper-pages/assets/images/membership/standard.png"
+                    }
                   />
                   <MSCard
                     onClick={() => {
@@ -232,7 +238,9 @@ function MyMembership() {
                     price={"99,800"}
                     content01={"셀퍼만의 스마트한 기능들을"}
                     content02={"제약 없이 무제한으로 사용해보세요!"}
-                    imgSrc={"/assets/images/membership/premium.png"}
+                    imgSrc={
+                      "sellper-pages/assets/images/membership/premium.png"
+                    }
                   />
                 </div>
               )}

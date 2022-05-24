@@ -103,7 +103,7 @@ function InquiryItem(props) {
                 width: 13,
                 height: 7,
               }}
-              src={"/assets/icons/menu_up3.png"}
+              src={"sellper-pages/assets/icons/menu_up3.png"}
               alt="up_arrow_gray"
             />
           ) : (
@@ -115,7 +115,7 @@ function InquiryItem(props) {
                 width: 13,
                 height: 7,
               }}
-              src={"/assets/icons/menu_down3.png"}
+              src={"sellper-pages/assets/icons/menu_down3.png"}
               alt="menu_down2"
             />
           )}

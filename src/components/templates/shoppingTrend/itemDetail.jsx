@@ -224,7 +224,9 @@ function ItemDetail() {
                   last={true}
                   rank={"1"}
                   name={"제주삼다수 무라벨"}
-                  image={"/assets/images/shoppingTrend/water01.png"}
+                  image={
+                    "sellper-pages/assets/images/shoppingTrend/water01.png"
+                  }
                   isDetail={true}
                 />
               </div>

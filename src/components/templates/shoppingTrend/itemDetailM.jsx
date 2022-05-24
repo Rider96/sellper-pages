@@ -257,7 +257,7 @@ function ItemDetailM() {
                           marginRight: 1,
                           marginBottom: 1,
                         }}
-                        src={"/assets/icons/up_red.png"}
+                        src={"sellper-pages/assets/icons/up_red.png"}
                         alt="up_red"
                       />
                       <div
@@ -287,7 +287,9 @@ function ItemDetailM() {
                           height: 50,
                           marginRight: 12,
                         }}
-                        src={"/assets/images/shoppingTrend/water01.png"}
+                        src={
+                          "sellper-pages/assets/images/shoppingTrend/water01.png"
+                        }
                         alt="water"
                       />
                       <div style={{ display: "flex", flexDirection: "column" }}>

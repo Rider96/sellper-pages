@@ -244,7 +244,7 @@ function TrendM() {
                   style={{
                     marginBottom: 10,
                   }}
-                  imgSrc={"/assets/images/product01.png"}
+                  imgSrc={"sellper-pages/assets/images/product01.png"}
                   imgAlt={"product01"}
                   rank={"1위"}
                   name={"일리야"}
@@ -261,7 +261,7 @@ function TrendM() {
                   style={{
                     marginBottom: 10,
                   }}
-                  imgSrc={"/assets/images/product02.png"}
+                  imgSrc={"sellper-pages/assets/images/product02.png"}
                   imgAlt={"product02"}
                   rank={"2위"}
                   name={"일리야"}
@@ -278,7 +278,7 @@ function TrendM() {
                   style={{
                     marginBottom: 10,
                   }}
-                  imgSrc={"/assets/images/product03.png"}
+                  imgSrc={"sellper-pages/assets/images/product03.png"}
                   imgAlt={"product03"}
                   rank={"3위"}
                   name={"일리야"}
@@ -295,7 +295,7 @@ function TrendM() {
                   style={{
                     marginBottom: 10,
                   }}
-                  imgSrc={"/assets/images/product04.png"}
+                  imgSrc={"sellper-pages/assets/images/product04.png"}
                   imgAlt={"product04"}
                   rank={"4위"}
                   name={"일리야"}
@@ -312,7 +312,7 @@ function TrendM() {
                   style={{
                     marginBottom: 10,
                   }}
-                  imgSrc={"/assets/images/product05.png"}
+                  imgSrc={"sellper-pages/assets/images/product05.png"}
                   imgAlt={"product05"}
                   rank={"5위"}
                   name={"일리야"}
@@ -331,7 +331,7 @@ function TrendM() {
                       style={{
                         marginBottom: 10,
                       }}
-                      imgSrc={"/assets/images/product06.png"}
+                      imgSrc={"sellper-pages/assets/images/product06.png"}
                       imgAlt={"product06"}
                       rank={"6위"}
                       name={"일리야"}
@@ -348,7 +348,7 @@ function TrendM() {
                       style={{
                         marginBottom: 10,
                       }}
-                      imgSrc={"/assets/images/product07.png"}
+                      imgSrc={"sellper-pages/assets/images/product07.png"}
                       imgAlt={"product07"}
                       rank={"7위"}
                       name={"일리야"}
@@ -365,7 +365,7 @@ function TrendM() {
                       style={{
                         marginBottom: 10,
                       }}
-                      imgSrc={"/assets/images/product08.png"}
+                      imgSrc={"sellper-pages/assets/images/product08.png"}
                       imgAlt={"product08"}
                       rank={"8위"}
                       name={"일리야"}
@@ -382,7 +382,7 @@ function TrendM() {
                       style={{
                         marginBottom: 10,
                       }}
-                      imgSrc={"/assets/images/product09.png"}
+                      imgSrc={"sellper-pages/assets/images/product09.png"}
                       imgAlt={"product09"}
                       rank={"9위"}
                       name={"일리야"}

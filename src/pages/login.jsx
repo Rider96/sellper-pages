@@ -273,7 +273,7 @@ function Login(props) {
                         marginRight: isSmall ? 70 : 45,
                         marginLeft: 23,
                       }}
-                      src={"/assets/icons/naver.png"}
+                      src={"sellper-pages/assets/icons/naver.png"}
                       alt={"naver"}
                     />
                     <div
@@ -310,7 +310,7 @@ function Login(props) {
                         marginRight: isSmall ? 70 : 45,
                         marginLeft: 20,
                       }}
-                      src={"/assets/icons/kakao.png"}
+                      src={"sellper-pages/assets/icons/kakao.png"}
                       alt={"kakao"}
                     />
                     <div

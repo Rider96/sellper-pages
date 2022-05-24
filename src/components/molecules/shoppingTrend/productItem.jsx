@@ -113,7 +113,7 @@ function ProductItem(props) {
                   marginRight: 2,
                   marginBottom: 1,
                 }}
-                src={"/assets/icons/up_red.png"}
+                src={"sellper-pages/assets/icons/up_red.png"}
                 alt="up_red"
               />
               <div
@@ -144,7 +144,7 @@ function ProductItem(props) {
                   marginRight: 2,
                   marginBottom: 1,
                 }}
-                src={"/assets/icons/down_blue.png"}
+                src={"sellper-pages/assets/icons/down_blue.png"}
                 alt="down_blue"
               />
               <div

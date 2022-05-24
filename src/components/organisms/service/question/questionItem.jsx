@@ -77,8 +77,8 @@ function QuestionItem(props) {
               }}
               src={
                 isSmall
-                  ? "/assets/icons/menu_up3.png"
-                  : "/assets/icons/up_arrow_gray.png"
+                  ? "sellper-pages/assets/icons/menu_up3.png"
+                  : "sellper-pages/assets/icons/up_arrow_gray.png"
               }
               alt="up_arrow_gray"
             />
@@ -93,8 +93,8 @@ function QuestionItem(props) {
               }}
               src={
                 isSmall
-                  ? "/assets/icons/menu_down3.png"
-                  : "/assets/icons/menu_down2.png"
+                  ? "sellper-pages/assets/icons/menu_down3.png"
+                  : "sellper-pages/assets/icons/menu_down2.png"
               }
               alt="menu_down2"
             />
