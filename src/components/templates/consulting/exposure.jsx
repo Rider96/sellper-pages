@@ -97,7 +97,7 @@ function Exposure() {
                   width: 31.97,
                   height: 25.26,
                 }}
-                src="./assets/icons/exposure.png"
+                src="assets/icons/exposure.png"
                 alt="exposure"
               />
             </div>
@@ -187,7 +187,7 @@ function Exposure() {
                     cursor: "pointer",
                     marginLeft: 10,
                   }}
-                  src="./assets/icons/search_color.png"
+                  src="assets/icons/search_color.png"
                   alt="search_color"
                 />
               </div>

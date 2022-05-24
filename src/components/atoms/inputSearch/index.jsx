@@ -6,7 +6,7 @@ const InputSearch = (props) => {
       <img
         style={props.iconStyle}
         onClick={props.onClick}
-        src="./assets/icons/search.png"
+        src="assets/icons/search.png"
         alt="search"
         className="icon"
       ></img>

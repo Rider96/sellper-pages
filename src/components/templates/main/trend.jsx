@@ -246,7 +246,7 @@ function Trend() {
                           width: 8,
                           height: 8,
                         }}
-                        src="./assets/icons/impact.png"
+                        src="assets/icons/impact.png"
                         alt="impact"
                       />
                     </div>
@@ -497,7 +497,7 @@ function Trend() {
                           width: 8,
                           height: 8,
                         }}
-                        src="./assets/icons/impact.png"
+                        src="assets/icons/impact.png"
                         alt="impact"
                       />
                     </div>

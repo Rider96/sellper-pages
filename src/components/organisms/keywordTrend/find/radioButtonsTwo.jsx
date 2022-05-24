@@ -42,7 +42,7 @@ function RadioButtonsTwo(props) {
                 width: 18,
                 height: 18,
               }}
-              src="./assets/icons/radio_d.png"
+              src="assets/icons/radio_d.png"
               alt="radio_d"
             />
           ) : props.agree === true ? (
@@ -54,7 +54,7 @@ function RadioButtonsTwo(props) {
                 width: 18,
                 height: 18,
               }}
-              src="./assets/icons/radio_a.png"
+              src="assets/icons/radio_a.png"
               alt="radio_a"
             />
           ) : (
@@ -66,7 +66,7 @@ function RadioButtonsTwo(props) {
                 width: 18,
                 height: 18,
               }}
-              src="./assets/icons/radio_d.png"
+              src="assets/icons/radio_d.png"
               alt="radio_d"
             />
           )}
@@ -88,7 +88,7 @@ function RadioButtonsTwo(props) {
                 width: 18,
                 height: 18,
               }}
-              src="./assets/icons/radio_d.png"
+              src="assets/icons/radio_d.png"
               alt="radio_d"
             />
           ) : props.agree === true ? (
@@ -100,7 +100,7 @@ function RadioButtonsTwo(props) {
                 width: 18,
                 height: 18,
               }}
-              src="./assets/icons/radio_d.png"
+              src="assets/icons/radio_d.png"
               alt="radio_d"
             />
           ) : (
@@ -112,7 +112,7 @@ function RadioButtonsTwo(props) {
                 width: 18,
                 height: 18,
               }}
-              src="./assets/icons/radio_a.png"
+              src="assets/icons/radio_a.png"
               alt="radio_a"
             />
           )}
@@ -139,7 +139,7 @@ function RadioButtonsTwo(props) {
                       width: 12,
                       height: 12,
                     }}
-                    src="./assets/icons/calendar.png"
+                    src="assets/icons/calendar.png"
                     alt="calendar"
                   />
                 }
@@ -168,7 +168,7 @@ function RadioButtonsTwo(props) {
                       width: 12,
                       height: 12,
                     }}
-                    src="./assets/icons/calendar.png"
+                    src="assets/icons/calendar.png"
                     alt="calendar"
                   />
                 }

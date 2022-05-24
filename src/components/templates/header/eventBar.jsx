@@ -56,7 +56,7 @@ function EventBar() {
               width: 4,
               height: 8,
             }}
-            src="./assets/icons/right_arrow.png"
+            src="assets/icons/right_arrow.png"
             alt="right_arrow"
           />
         </div>
@@ -73,7 +73,7 @@ function EventBar() {
               width: 12,
               height: 12,
             }}
-            src="./assets/icons/close.png"
+            src="assets/icons/close.png"
             alt="close"
           />
         </div>

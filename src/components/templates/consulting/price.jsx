@@ -98,7 +98,7 @@ function Price() {
                   width: 20,
                   height: 32.63,
                 }}
-                src="./assets/icons/price.png"
+                src="assets/icons/price.png"
                 alt="price"
               />
             </div>
@@ -237,7 +237,7 @@ function Price() {
                     marginLeft: 6,
                     marginBottom: 2,
                   }}
-                  src="./assets/icons/right_arrow_gray.png"
+                  src="assets/icons/right_arrow_gray.png"
                   alt="right_arrow_gray"
                 />
                 <div>식품냉동/간편조리식품</div>
@@ -249,7 +249,7 @@ function Price() {
                     marginLeft: 6,
                     marginBottom: 2,
                   }}
-                  src="./assets/icons/right_arrow_gray.png"
+                  src="assets/icons/right_arrow_gray.png"
                   alt="right_arrow_gray"
                 />
                 <div>즉석국/즉석탕</div>

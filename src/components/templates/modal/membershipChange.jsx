@@ -64,7 +64,7 @@ function MembershipChange(props) {
             height: 32,
             marginBottom: 6,
           }}
-          src="./assets/icons/cool.png"
+          src="assets/icons/cool.png"
           alt="cool"
         />
 

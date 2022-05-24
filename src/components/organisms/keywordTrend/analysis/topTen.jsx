@@ -84,7 +84,7 @@ function TopTen(props) {
                     width: 8,
                     height: 8,
                   }}
-                  src="./assets/icons/impact.png"
+                  src="assets/icons/impact.png"
                   alt="impact"
                 />
               </div>
@@ -131,7 +131,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product01.png"
+                src="assets/images/keywordTrend/product01.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -145,7 +145,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product02.png"
+                src="assets/images/keywordTrend/product02.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -159,7 +159,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product03.png"
+                src="assets/images/keywordTrend/product03.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -173,7 +173,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product04.png"
+                src="assets/images/keywordTrend/product04.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -187,7 +187,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product05.png"
+                src="assets/images/keywordTrend/product05.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -209,7 +209,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product06.png"
+                src="assets/images/keywordTrend/product06.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -223,7 +223,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product07.png"
+                src="assets/images/keywordTrend/product07.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -237,7 +237,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product08.png"
+                src="assets/images/keywordTrend/product08.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -251,7 +251,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product09.png"
+                src="assets/images/keywordTrend/product09.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -265,7 +265,7 @@ function TopTen(props) {
                   height: 130,
                   marginBottom: 10,
                 }}
-                src="./assets/images/keywordTrend/product07.png"
+                src="assets/images/keywordTrend/product07.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>

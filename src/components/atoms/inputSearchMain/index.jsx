@@ -4,7 +4,7 @@ const InputSearchMain = (props) => {
   return (
     <div className="wrapper-main" style={props.wrapperStyle}>
       <img
-        src="./assets/icons/search.png"
+        src="assets/icons/search.png"
         alt="search"
         className="icon-main"
       ></img>

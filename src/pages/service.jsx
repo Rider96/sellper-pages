@@ -147,7 +147,7 @@ function Service(props) {
                     width: isSmall ? 19 : 26,
                     height: isSmall ? 25 : 35,
                   }}
-                  src="./assets/icons/service.png"
+                  src="assets/icons/service.png"
                   alt="service"
                 />
               </div>

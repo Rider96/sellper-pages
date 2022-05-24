@@ -87,7 +87,7 @@ function FunctionItem(props) {
                 width: isSmall ? 6 : 8,
                 height: isSmall ? 6 : 8,
               }}
-              src="./assets/icons/impact.png"
+              src="assets/icons/impact.png"
               alt="impact"
             />
             <div className="name" />

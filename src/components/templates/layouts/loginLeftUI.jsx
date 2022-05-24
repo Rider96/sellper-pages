@@ -48,7 +48,7 @@ function LoginLeftUI(props) {
               width: 289,
               height: 256.03,
             }}
-            src="./assets/images/rocket.png"
+            src="assets/images/rocket.png"
             alt="rocket"
           />
         </div>
