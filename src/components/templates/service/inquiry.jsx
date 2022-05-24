@@ -92,7 +92,7 @@ function Inquiry() {
                 width: 13,
                 height: 13,
               }}
-              src="assets/icons/lock.png"
+              src="sellper-pages/assets/icons/lock.png"
               alt="lock"
             />
             <div
@@ -150,7 +150,7 @@ function Inquiry() {
                 width: 13,
                 height: 13,
               }}
-              src="assets/icons/lock.png"
+              src="sellper-pages/assets/icons/lock.png"
               alt="lock"
             />
             <div
@@ -208,7 +208,7 @@ function Inquiry() {
                 width: 13,
                 height: 13,
               }}
-              src="assets/icons/lock.png"
+              src="sellper-pages/assets/icons/lock.png"
               alt="lock"
             />
             <div
@@ -266,76 +266,7 @@ function Inquiry() {
                 width: 13,
                 height: 13,
               }}
-              src="assets/icons/lock.png"
-              alt="lock"
-            />
-            <div
-              style={{
-                fontSize: 14,
-                fontWeight: 600,
-                fontFamily: "Pretendard",
-                color: "#191919",
-              }}
-            >
-              문의드립니다!
-            </div>
-            <div
-              style={{
-                marginLeft: 4,
-                fontSize: 14,
-                fontWeight: 600,
-                fontFamily: "Pretendard",
-                color: "#06C1A0",
-              }}
-            >
-              (1)
-            </div>
-          </TitleLayout>
-          <IDLayout
-            style={{
-              fontSize: 14,
-              fontWeight: 400,
-              fontFamily: "Pretendard",
-              color: "#555555",
-            }}
-          >
-            sellper0123
-          </IDLayout>
-          <DateLayout
-            style={{
-              fontSize: 14,
-              fontWeight: 400,
-              fontFamily: "Pretendard",
-              color: "#555555",
-            }}
-          >
-            2022-02-22
-          </DateLayout>
-          <div
-            style={{
-              fontSize: 14,
-              fontWeight: 400,
-              fontFamily: "Pretendard",
-              color: "#555555",
-              marginLeft: 14,
-            }}
-          >
-            5
-          </div>
-        </ItemLayout>
-        <ItemLayout
-          onClick={() => {
-            history.push("/service/iqDetail");
-          }}
-        >
-          <TitleLayout>
-            <img
-              style={{
-                marginRight: 8,
-                width: 13,
-                height: 13,
-              }}
-              src="assets/icons/lock.png"
+              src="sellper-pages/assets/icons/lock.png"
               alt="lock"
             />
             <div
@@ -404,7 +335,76 @@ function Inquiry() {
                 width: 13,
                 height: 13,
               }}
-              src="assets/icons/lock.png"
+              src="sellper-pages/assets/icons/lock.png"
+              alt="lock"
+            />
+            <div
+              style={{
+                fontSize: 14,
+                fontWeight: 600,
+                fontFamily: "Pretendard",
+                color: "#191919",
+              }}
+            >
+              문의드립니다!
+            </div>
+            <div
+              style={{
+                marginLeft: 4,
+                fontSize: 14,
+                fontWeight: 600,
+                fontFamily: "Pretendard",
+                color: "#06C1A0",
+              }}
+            >
+              (1)
+            </div>
+          </TitleLayout>
+          <IDLayout
+            style={{
+              fontSize: 14,
+              fontWeight: 400,
+              fontFamily: "Pretendard",
+              color: "#555555",
+            }}
+          >
+            sellper0123
+          </IDLayout>
+          <DateLayout
+            style={{
+              fontSize: 14,
+              fontWeight: 400,
+              fontFamily: "Pretendard",
+              color: "#555555",
+            }}
+          >
+            2022-02-22
+          </DateLayout>
+          <div
+            style={{
+              fontSize: 14,
+              fontWeight: 400,
+              fontFamily: "Pretendard",
+              color: "#555555",
+              marginLeft: 14,
+            }}
+          >
+            5
+          </div>
+        </ItemLayout>
+        <ItemLayout
+          onClick={() => {
+            history.push("/service/iqDetail");
+          }}
+        >
+          <TitleLayout>
+            <img
+              style={{
+                marginRight: 8,
+                width: 13,
+                height: 13,
+              }}
+              src="sellper-pages/assets/icons/lock.png"
               alt="lock"
             />
             <div
@@ -474,7 +474,7 @@ function Inquiry() {
                 width: 13,
                 height: 13,
               }}
-              src="assets/icons/lock.png"
+              src="sellper-pages/assets/icons/lock.png"
               alt="lock"
             />
             <div

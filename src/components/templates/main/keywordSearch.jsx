@@ -63,7 +63,7 @@ function KeywordSearch() {
                       width: 11,
                       height: 11,
                     }}
-                    src="assets/icons/impact.png"
+                    src="sellper-pages/assets/icons/impact.png"
                     alt="impact"
                   />
                 </div>
@@ -88,7 +88,7 @@ function KeywordSearch() {
                 width: 330,
                 height: 289,
               }}
-              src="assets/images/rocket.png"
+              src="sellper-pages/assets/images/rocket.png"
               alt="rocket"
             />
           </div>

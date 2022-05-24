@@ -89,7 +89,7 @@ function CategoryFind() {
                           width: 12,
                           height: 12,
                         }}
-                        src="assets/icons/calendar.png"
+                        src="sellper-pages/assets/icons/calendar.png"
                         alt="calendar"
                       />
                     }
@@ -118,7 +118,7 @@ function CategoryFind() {
                           width: 12,
                           height: 12,
                         }}
-                        src="assets/icons/calendar.png"
+                        src="sellper-pages/assets/icons/calendar.png"
                         alt="calendar"
                       />
                     }

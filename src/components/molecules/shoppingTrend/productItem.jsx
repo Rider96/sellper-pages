@@ -181,7 +181,7 @@ function ProductItem(props) {
               marginRight: 6,
               marginLeft: 6,
             }}
-            src="assets/icons/right_arrow.png"
+            src="sellper-pages/assets/icons/right_arrow.png"
             alt="right_arrow"
           />
           <div>음료</div>
@@ -192,7 +192,7 @@ function ProductItem(props) {
               marginRight: 6,
               marginLeft: 6,
             }}
-            src="assets/icons/right_arrow.png"
+            src="sellper-pages/assets/icons/right_arrow.png"
             alt="right_arrow"
           />
           <div>생수</div>

@@ -163,7 +163,7 @@ function Footer() {
                     height: 16.32,
                     marginRight: 8.67,
                   }}
-                  src="assets/icons/phone.png"
+                  src="sellper-pages/assets/icons/phone.png"
                   alt="phone"
                 />
                 <div

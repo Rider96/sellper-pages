@@ -64,7 +64,7 @@ function MembershipCancel(props) {
             height: 32,
             marginBottom: 6,
           }}
-          src="assets/icons/cry.png"
+          src="sellper-pages/assets/icons/cry.png"
           alt="cry"
         />
 

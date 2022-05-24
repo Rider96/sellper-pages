@@ -49,7 +49,7 @@ function QuestionItem(props) {
                   width: isSmall ? 10 : 12,
                   height: isSmall ? 11 : 13,
                 }}
-                src="assets/icons/q.png"
+                src="sellper-pages/assets/icons/q.png"
                 alt="q"
               />
             </div>
@@ -135,7 +135,7 @@ function QuestionItem(props) {
                     height: isSmall ? 10 : 12,
                     marginLeft: isSmall ? 0 : 2,
                   }}
-                  src="assets/icons/a.png"
+                  src="sellper-pages/assets/icons/a.png"
                   alt="a"
                 />
               </div>

@@ -56,7 +56,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product08.png"
+                src="sellper-pages/assets/images/consulting/price/product08.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -70,7 +70,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product02.png"
+                src="sellper-pages/assets/images/consulting/price/product02.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -84,7 +84,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product03.png"
+                src="sellper-pages/assets/images/consulting/price/product03.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -98,7 +98,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product04.png"
+                src="sellper-pages/assets/images/consulting/price/product04.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -112,7 +112,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product05.png"
+                src="sellper-pages/assets/images/consulting/price/product05.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -126,7 +126,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product06.png"
+                src="sellper-pages/assets/images/consulting/price/product06.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -140,7 +140,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product07.png"
+                src="sellper-pages/assets/images/consulting/price/product07.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -154,7 +154,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product08.png"
+                src="sellper-pages/assets/images/consulting/price/product08.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -168,7 +168,7 @@ function PriceTopTen(props) {
                   height: isSmall ? 87 : 102,
                   marginBottom: 8,
                 }}
-                src="assets/images/consulting/price/product09.png"
+                src="sellper-pages/assets/images/consulting/price/product09.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>

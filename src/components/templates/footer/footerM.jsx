@@ -180,7 +180,7 @@ function FooterM() {
                     height: 12.95,
                     marginRight: 5,
                   }}
-                  src="assets/icons/phone.png"
+                  src="sellper-pages/assets/icons/phone.png"
                   alt="phone"
                 />
                 <div

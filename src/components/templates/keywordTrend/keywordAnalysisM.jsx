@@ -206,7 +206,7 @@ function KeywordAnalysisM() {
                   width: 25,
                   height: 22.93,
                 }}
-                src="assets/icons/keyword_a.png"
+                src="sellper-pages/assets/icons/keyword_a.png"
                 alt="keyword_a"
               />
             </div>
@@ -328,7 +328,7 @@ function KeywordAnalysisM() {
                       marginRight: 6,
                       marginLeft: 6,
                     }}
-                    src="assets/icons/right_arrow_gray.png"
+                    src="sellper-pages/assets/icons/right_arrow_gray.png"
                     alt="right_arrow_gray"
                   />
                   <div>식품냉동/간편조리식품</div>
@@ -339,7 +339,7 @@ function KeywordAnalysisM() {
                       marginRight: 6,
                       marginLeft: 6,
                     }}
-                    src="assets/icons/right_arrow_gray.png"
+                    src="sellper-pages/assets/icons/right_arrow_gray.png"
                     alt="right_arrow_gray"
                   />
                   <div>즉석국/즉석탕</div>
@@ -385,7 +385,7 @@ function KeywordAnalysisM() {
                     height: 15,
                     marginRight: 26,
                   }}
-                  src="assets/icons/sub_menu.png"
+                  src="sellper-pages/assets/icons/sub_menu.png"
                   alt="sub_menu"
                 />
               </div>

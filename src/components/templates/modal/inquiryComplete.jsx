@@ -62,7 +62,7 @@ function InquiryComplete(props) {
             height: 32,
             marginBottom: 6,
           }}
-          src="assets/icons/smile.png"
+          src="sellper-pages/assets/icons/smile.png"
           alt="smile"
         />
 

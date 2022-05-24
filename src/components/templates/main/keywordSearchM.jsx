@@ -84,7 +84,7 @@ function KeywordSearchM() {
                 width: 205.83,
                 height: 168,
               }}
-              src="assets/images/rocket.png"
+              src="sellper-pages/assets/images/rocket.png"
               alt="rocket"
             />
           </div>

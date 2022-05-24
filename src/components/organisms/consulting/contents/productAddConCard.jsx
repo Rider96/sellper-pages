@@ -100,7 +100,7 @@ function ProductAddConCard(props) {
               height: 18,
               marginLeft: 8,
             }}
-            src="assets/images/consulting/contents/icon1_01.png"
+            src="sellper-pages/assets/images/consulting/contents/icon1_01.png"
             alt="icon1_01"
           />
         </div>
@@ -119,7 +119,7 @@ function ProductAddConCard(props) {
                 height: 18,
                 marginRight: 10,
               }}
-              src="assets/images/consulting/contents/icon1_02.png"
+              src="sellper-pages/assets/images/consulting/contents/icon1_02.png"
               alt="icon1_02"
             />
             <LeftValue>썸네일 이미지</LeftValue>
@@ -138,7 +138,7 @@ function ProductAddConCard(props) {
                 height: 18,
                 marginRight: 10,
               }}
-              src="assets/images/consulting/contents/icon1_03.png"
+              src="sellper-pages/assets/images/consulting/contents/icon1_03.png"
               alt="icon1_03"
             />
             <LeftValue>상세페이지 이미지</LeftValue>
@@ -183,7 +183,7 @@ function ProductAddConCard(props) {
                 height: 16,
                 marginRight: 10,
               }}
-              src="assets/images/consulting/contents/icon1_04.png"
+              src="sellper-pages/assets/images/consulting/contents/icon1_04.png"
               alt="icon1_04"
             />
             <LeftValue>상품 할인율</LeftValue>
@@ -202,7 +202,7 @@ function ProductAddConCard(props) {
                 height: 13,
                 marginRight: 10,
               }}
-              src="assets/images/consulting/contents/icon1_05.png"
+              src="sellper-pages/assets/images/consulting/contents/icon1_05.png"
               alt="icon1_05"
             />
             <LeftValue>배송비 측정</LeftValue>
@@ -221,7 +221,7 @@ function ProductAddConCard(props) {
                 height: 18,
                 marginRight: 10,
               }}
-              src="assets/images/consulting/contents/icon1_06.png"
+              src="sellper-pages/assets/images/consulting/contents/icon1_06.png"
               alt="icon1_06"
             />
             <LeftValue>리뷰 포인트 적립</LeftValue>
@@ -244,7 +244,7 @@ function ProductAddConCard(props) {
                 height: 17,
                 marginRight: 10,
               }}
-              src="assets/images/consulting/contents/icon1_07.png"
+              src="sellper-pages/assets/images/consulting/contents/icon1_07.png"
               alt="icon1_07"
             />
             <LeftValue>태그</LeftValue>

@@ -112,7 +112,7 @@ function KeywordM(props) {
                 marginLeft: 6,
                 cursor: "pointer",
               }}
-              src="assets/icons/question.png"
+              src="sellper-pages/assets/icons/question.png"
               alt="question"
             />
           </div>

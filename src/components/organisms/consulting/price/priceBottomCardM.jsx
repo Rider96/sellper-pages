@@ -101,7 +101,7 @@ function PriceBottomCardM(props) {
               marginRight: 10,
               marginLeft: 9,
             }}
-            src="assets/icons/right_arrow_color.png"
+            src="sellper-pages/assets/icons/right_arrow_color.png"
             alt="right_arrow_color"
           />
           <div

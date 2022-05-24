@@ -181,7 +181,7 @@ function KeywordAnalysis() {
                   width: 30,
                   height: 27.52,
                 }}
-                src="assets/icons/keyword_a.png"
+                src="sellper-pages/assets/icons/keyword_a.png"
                 alt="keyword_a"
               />
             </div>
@@ -269,7 +269,7 @@ function KeywordAnalysis() {
                     marginLeft: 6,
                     marginBottom: 2,
                   }}
-                  src="assets/icons/right_arrow_gray.png"
+                  src="sellper-pages/assets/icons/right_arrow_gray.png"
                   alt="right_arrow_gray"
                 />
                 <div
@@ -288,7 +288,7 @@ function KeywordAnalysis() {
                     marginLeft: 6,
                     marginBottom: 2,
                   }}
-                  src="assets/icons/right_arrow_gray.png"
+                  src="sellper-pages/assets/icons/right_arrow_gray.png"
                   alt="right_arrow_gray"
                 />
                 <div
@@ -383,7 +383,7 @@ function KeywordAnalysis() {
                         width: 18,
                         height: 18,
                       }}
-                      src="assets/icons/radio_a.png"
+                      src="sellper-pages/assets/icons/radio_a.png"
                       alt="radio_a"
                     />
                   ) : (
@@ -397,7 +397,7 @@ function KeywordAnalysis() {
                         width: 18,
                         height: 18,
                       }}
-                      src="assets/icons/radio_d.png"
+                      src="sellper-pages/assets/icons/radio_d.png"
                       alt="radio_d"
                     />
                   )}
@@ -423,7 +423,7 @@ function KeywordAnalysis() {
                         width: 18,
                         height: 18,
                       }}
-                      src="assets/icons/radio_d.png"
+                      src="sellper-pages/assets/icons/radio_d.png"
                       alt="radio_d"
                     />
                   ) : (
@@ -437,7 +437,7 @@ function KeywordAnalysis() {
                         width: 18,
                         height: 18,
                       }}
-                      src="assets/icons/radio_a2.png"
+                      src="sellper-pages/assets/icons/radio_a2.png"
                       alt="radio_a2"
                     />
                   )}
@@ -508,7 +508,7 @@ function KeywordAnalysis() {
                               width: 12,
                               height: 12,
                             }}
-                            src="assets/icons/calendar.png"
+                            src="sellper-pages/assets/icons/calendar.png"
                             alt="calendar"
                           />
                         }
@@ -537,7 +537,7 @@ function KeywordAnalysis() {
                               width: 12,
                               height: 12,
                             }}
-                            src="assets/icons/calendar.png"
+                            src="sellper-pages/assets/icons/calendar.png"
                             alt="calendar"
                           />
                         }

@@ -96,7 +96,7 @@ function ProductSaleConCardM(props) {
               marginLeft: 6,
               marginBottom: 4,
             }}
-            src="assets/images/consulting/contents/icon2_01.png"
+            src="sellper-pages/assets/images/consulting/contents/icon2_01.png"
             alt="icon2_01"
           />
         </div>
@@ -115,7 +115,7 @@ function ProductSaleConCardM(props) {
                 height: 16,
                 marginRight: 12,
               }}
-              src="assets/images/consulting/contents/icon2_02.png"
+              src="sellper-pages/assets/images/consulting/contents/icon2_02.png"
               alt="icon2_02"
             />
           </LeftLabel>
@@ -140,7 +140,7 @@ function ProductSaleConCardM(props) {
                 height: 17,
                 marginRight: 11,
               }}
-              src="assets/images/consulting/contents/icon2_03.png"
+              src="sellper-pages/assets/images/consulting/contents/icon2_03.png"
               alt="icon2_03"
             />
           </LeftLabel>
@@ -165,7 +165,7 @@ function ProductSaleConCardM(props) {
                 height: 18,
                 marginRight: 11,
               }}
-              src="assets/images/consulting/contents/icon2_04.png"
+              src="sellper-pages/assets/images/consulting/contents/icon2_04.png"
               alt="icon2_04"
             />
           </LeftLabel>
@@ -190,7 +190,7 @@ function ProductSaleConCardM(props) {
                 height: 16,
                 marginRight: 14,
               }}
-              src="assets/images/consulting/contents/icon2_05.png"
+              src="sellper-pages/assets/images/consulting/contents/icon2_05.png"
               alt="icon2_05"
             />
           </LeftLabel>
@@ -215,7 +215,7 @@ function ProductSaleConCardM(props) {
                 height: 14,
                 marginRight: 13,
               }}
-              src="assets/images/consulting/contents/icon2_06.png"
+              src="sellper-pages/assets/images/consulting/contents/icon2_06.png"
               alt="icon2_06"
             />
           </LeftLabel>
@@ -244,7 +244,7 @@ function ProductSaleConCardM(props) {
                 height: 13,
                 marginRight: 12,
               }}
-              src="assets/images/consulting/contents/icon2_07.png"
+              src="sellper-pages/assets/images/consulting/contents/icon2_07.png"
               alt="icon2_07"
             />
           </LeftLabel>
