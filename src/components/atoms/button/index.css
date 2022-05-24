@@ -1,0 +1,10 @@
+.custom-button {
+  height: 40px;
+}
+
+.ant-btn:hover,
+.ant-btn:focus,
+.ant-btn:active {
+  text-decoration: none;
+  background: none;
+}

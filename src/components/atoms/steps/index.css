@@ -1,0 +1,117 @@
+.custom-steps {
+  font-family: "Open Sans" !important;
+}
+
+.ant-steps-vertical > .ant-steps-item .ant-steps-item-content {
+  overflow: hidden;
+  display: flex;
+  background: white;
+  height: 59px;
+  padding: 0px;
+  border: 0.5px solid #e6e6e6;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.ant-steps-small .ant-steps-item-title {
+  padding-right: 0px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.ant-steps-vertical.ant-steps-small
+  .ant-steps-item-container
+  .ant-steps-item-title {
+  line-height: 24px;
+  font-size: 14px;
+  color: #979797;
+  font-weight: 600;
+  padding: 17px 0px 17px 20px;
+}
+
+.ant-steps-item-subtitle {
+  display: inline;
+  margin-left: 24px;
+  margin-right: 24px;
+  color: #979797;
+  font-weight: normal;
+  font-size: 11px;
+}
+
+.ant-steps-item-process
+  > .ant-steps-item-container
+  > .ant-steps-item-content
+  > .ant-steps-item-description {
+  color: rgba(0, 0, 0);
+  font-size: 15px;
+  font-weight: 500;
+  width: 478px;
+  padding: 17px 20px 17px 0px;
+}
+
+.ant-steps-item-process > .ant-steps-item-container > .ant-steps-item-icon {
+  background: white;
+  margin-top: 20px;
+}
+
+.ant-steps-item-process .ant-steps-item-icon {
+  background-color: #fff;
+  border: 0.5px solid #e5e5e5;
+}
+
+.ant-steps-item-process
+  > .ant-steps-item-container
+  > .ant-steps-item-icon
+  .ant-steps-icon {
+  color: #a4dfff;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.ant-steps-item-container {
+  outline: none;
+  margin-bottom: 33px;
+}
+
+.ant-steps-vertical
+  > .ant-steps-item:not(:last-child)
+  > .ant-steps-item-container
+  > .ant-steps-item-tail {
+  display: block;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 1270px) {
+  .ant-steps-vertical.ant-steps-small
+    .ant-steps-item-container
+    .ant-steps-item-title {
+    line-height: 24px;
+    font-size: 14px;
+    color: #979797;
+    font-weight: 600;
+    padding: 17px 0px 17px 20px;
+    display: flex;
+  }
+
+  .ant-steps-vertical > .ant-steps-item .ant-steps-item-content {
+    overflow: hidden;
+    display: flex;
+    background: white;
+    height: 78px;
+    padding: 0px;
+    border: 0.5px solid #e6e6e6;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+
+  .ant-steps-item-process
+    > .ant-steps-item-container
+    > .ant-steps-item-content
+    > .ant-steps-item-description {
+    color: rgba(0, 0, 0);
+    font-size: 15px;
+    font-weight: 500;
+    width: 100%;
+    padding: 17px 20px 17px 0px;
+  }
+}

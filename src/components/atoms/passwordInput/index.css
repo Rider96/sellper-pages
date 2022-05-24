@@ -1,0 +1,23 @@
+.custom-pw-input {
+  height: 40px;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  width: 100%;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: rgba(118, 118, 118, 0.8) !important;
+}
+input:-moz-placeholder,
+textarea:-moz-placeholder {
+  color: rgba(118, 118, 118, 0.8) !important;
+}
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+  color: rgba(118, 118, 118, 0.8) !important;
+}
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  color: rgba(118, 118, 118, 0.8) !important;
+}
