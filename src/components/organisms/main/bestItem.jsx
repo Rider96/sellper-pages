@@ -154,7 +154,7 @@ function BestItem(props) {
                   marginRight: 6,
                   marginLeft: 6,
                 }}
-                src="/assets/icons/right_arrow_gray.png"
+                src="./assets/icons/right_arrow_gray.png"
                 alt="right_arrow_gray"
               />
               <div>{props.category02}</div>
@@ -165,7 +165,7 @@ function BestItem(props) {
                   marginRight: 6,
                   marginLeft: 6,
                 }}
-                src="/assets/icons/right_arrow_gray.png"
+                src="./assets/icons/right_arrow_gray.png"
                 alt="right_arrow_gray"
               />
               <div>{props.category03}</div>

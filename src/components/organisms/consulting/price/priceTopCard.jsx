@@ -84,7 +84,7 @@ function PriceTopCard(props) {
               marginRight: 6,
               marginLeft: 6,
             }}
-            src="/assets/icons/cool.png"
+            src="./assets/icons/cool.png"
             alt="cool"
           />
         </div>

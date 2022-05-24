@@ -168,7 +168,7 @@ function KeywordFindM() {
                   width: 35.01,
                   height: 23.01,
                 }}
-                src="/assets/icons/keyword_f.png"
+                src="./assets/icons/keyword_f.png"
                 alt="keyword_f"
               />
             </div>
@@ -320,7 +320,7 @@ function KeywordFindM() {
                     height: 7,
                     marginLeft: 6.25,
                   }}
-                  src="/assets/icons/menu_up3.png"
+                  src="./assets/icons/menu_up3.png"
                   alt="menu_up3"
                 />
               ) : (
@@ -331,7 +331,7 @@ function KeywordFindM() {
                     height: 7,
                     marginLeft: 6.25,
                   }}
-                  src="/assets/icons/menu_down3.png"
+                  src="./assets/icons/menu_down3.png"
                   alt="menu_down3"
                 />
               )}
@@ -631,7 +631,7 @@ function KeywordFindM() {
                           marginRight: 6,
                           marginLeft: 6,
                         }}
-                        src="/assets/icons/right_arrow_gray.png"
+                        src="./assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>식품냉동/간편조리식품</div>
@@ -642,7 +642,7 @@ function KeywordFindM() {
                           marginRight: 6,
                           marginLeft: 6,
                         }}
-                        src="/assets/icons/right_arrow_gray.png"
+                        src="./assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>즉석국/즉석탕</div>
@@ -664,7 +664,7 @@ function KeywordFindM() {
                         height: 15,
                         marginRight: 26,
                       }}
-                      src="/assets/icons/sub_menu.png"
+                      src="./assets/icons/sub_menu.png"
                       alt="sub_menu"
                     />
                   </div>

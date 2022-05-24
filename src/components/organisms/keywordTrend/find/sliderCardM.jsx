@@ -89,7 +89,7 @@ function SliderCardM(props) {
                   width: 18,
                   height: 18,
                 }}
-                src="/assets/icons/radio_a.png"
+                src="./assets/icons/radio_a.png"
                 alt="radio_a"
               />
             ) : (
@@ -101,7 +101,7 @@ function SliderCardM(props) {
                   width: 18,
                   height: 18,
                 }}
-                src="/assets/icons/radio_d.png"
+                src="./assets/icons/radio_d.png"
                 alt="radio_d"
               />
             )}

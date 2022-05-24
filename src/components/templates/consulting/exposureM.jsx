@@ -98,7 +98,7 @@ function ExposureM() {
                   width: 28,
                   height: 22.12,
                 }}
-                src="/assets/icons/exposure.png"
+                src="./assets/icons/exposure.png"
                 alt="exposure"
               />
             </div>

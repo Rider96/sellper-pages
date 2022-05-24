@@ -218,7 +218,7 @@ function TrendM() {
                       width: 8,
                       height: 8,
                     }}
-                    src="/assets/icons/impact.png"
+                    src="./assets/icons/impact.png"
                     alt="impact"
                   />
                 </div>
@@ -419,7 +419,7 @@ function TrendM() {
                           height: 7,
                           marginLeft: 7,
                         }}
-                        src="/assets/icons/menu_down2.png"
+                        src="./assets/icons/menu_down2.png"
                         alt="menu_down2"
                       />
                     </GrayTextButton>
@@ -444,7 +444,7 @@ function TrendM() {
                           height: 7,
                           marginLeft: 7,
                         }}
-                        src="/assets/icons/menu_up2.png"
+                        src="./assets/icons/menu_up2.png"
                         alt="menu_up2"
                       />
                     </GrayTextButton>
@@ -491,7 +491,7 @@ function TrendM() {
                       width: 8,
                       height: 8,
                     }}
-                    src="/assets/icons/impact.png"
+                    src="./assets/icons/impact.png"
                     alt="impact"
                   />
                 </div>

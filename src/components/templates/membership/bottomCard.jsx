@@ -121,7 +121,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 10,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </BasicLabel>
@@ -132,7 +132,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -143,7 +143,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -159,7 +159,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 10,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </BasicLabel>
@@ -170,7 +170,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -181,7 +181,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -206,7 +206,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -217,7 +217,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -251,7 +251,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -267,7 +267,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 10,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </BasicLabel>
@@ -278,7 +278,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -289,7 +289,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -358,7 +358,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -396,7 +396,7 @@ function BottomCard(props) {
                 height: 11,
                 marginLeft: 20,
               }}
-              src="/assets/icons/check.png"
+              src="./assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>

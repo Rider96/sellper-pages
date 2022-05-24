@@ -289,7 +289,7 @@ function NumberSeeList(props) {
                 cursor: "pointer",
                 marginLeft: 5,
               }}
-              src="/assets/icons/question.png"
+              src="./assets/icons/question.png"
               alt="question"
             />
             {isMouseOver ? (
@@ -397,7 +397,7 @@ function NumberSeeList(props) {
                   cursor: "pointer",
                   marginBottom: 2,
                 }}
-                src="/assets/icons/table_up.png"
+                src="./assets/icons/table_up.png"
                 alt="table_up"
               />
               <img
@@ -429,7 +429,7 @@ function NumberSeeList(props) {
                   height: 8,
                   cursor: "pointer",
                 }}
-                src="/assets/icons/table_down.png"
+                src="./assets/icons/table_down.png"
                 alt="table_down"
               />
             </div>
@@ -475,7 +475,7 @@ function NumberSeeList(props) {
                   cursor: "pointer",
                   marginBottom: 2,
                 }}
-                src="/assets/icons/table_up.png"
+                src="./assets/icons/table_up.png"
                 alt="table_up"
               />
               <img
@@ -507,7 +507,7 @@ function NumberSeeList(props) {
                   height: 8,
                   cursor: "pointer",
                 }}
-                src="/assets/icons/table_down.png"
+                src="./assets/icons/table_down.png"
                 alt="table_down"
               />
             </div>
@@ -553,7 +553,7 @@ function NumberSeeList(props) {
                   cursor: "pointer",
                   marginBottom: 2,
                 }}
-                src="/assets/icons/table_up.png"
+                src="./assets/icons/table_up.png"
                 alt="table_up"
               />
               <img
@@ -585,7 +585,7 @@ function NumberSeeList(props) {
                   height: 8,
                   cursor: "pointer",
                 }}
-                src="/assets/icons/table_down.png"
+                src="./assets/icons/table_down.png"
                 alt="table_down"
               />
             </div>
@@ -631,7 +631,7 @@ function NumberSeeList(props) {
                   cursor: "pointer",
                   marginBottom: 2,
                 }}
-                src="/assets/icons/table_up.png"
+                src="./assets/icons/table_up.png"
                 alt="table_up"
               />
               <img
@@ -663,7 +663,7 @@ function NumberSeeList(props) {
                   height: 8,
                   cursor: "pointer",
                 }}
-                src="/assets/icons/table_down.png"
+                src="./assets/icons/table_down.png"
                 alt="table_down"
               />
             </div>

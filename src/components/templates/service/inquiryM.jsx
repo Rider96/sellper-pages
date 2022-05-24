@@ -89,7 +89,7 @@ function InquiryM() {
                 marginRight: 4,
                 marginBottom: 2,
               }}
-              src="/assets/icons/keyword_edit.png"
+              src="./assets/icons/keyword_edit.png"
               alt="keyword_edit"
             />
             <div

@@ -50,7 +50,7 @@ const KeywordEdit = (props) => {
           height: 14,
           marginRight: 7,
         }}
-        src="/assets/icons/keyword_edit.png"
+        src="./assets/icons/keyword_edit.png"
         alt="keyword_edit"
       />
       <div className="name">키워드 수정하기</div>

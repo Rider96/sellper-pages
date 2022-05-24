@@ -39,7 +39,7 @@ function IQDetail() {
               width: 13,
               height: 13,
             }}
-            src="/assets/icons/lock.png"
+            src="./assets/icons/lock.png"
             alt="lock"
           />
           <div

@@ -58,7 +58,7 @@ function ProductDiagnosisCard(props) {
               height: 24,
               marginLeft: 10,
             }}
-            src="/assets/images/consulting/contents/face01.png"
+            src="./assets/images/consulting/contents/face01.png"
             alt="face01"
           />
         </div>
@@ -236,7 +236,7 @@ function ProductDiagnosisCard(props) {
                   height: 16,
                   marginRight: 10,
                 }}
-                src="/assets/images/consulting/contents/face02.png"
+                src="./assets/images/consulting/contents/face02.png"
                 alt="face02"
               />
               <div>오 나쁘지 않은데요?</div>
@@ -259,7 +259,7 @@ function ProductDiagnosisCard(props) {
                   height: 16,
                   marginRight: 10,
                 }}
-                src="/assets/images/consulting/contents/face03.png"
+                src="./assets/images/consulting/contents/face03.png"
                 alt="face03"
               />
               <div>아주 완벽한 페이지에요!</div>
@@ -282,7 +282,7 @@ function ProductDiagnosisCard(props) {
                   height: 16,
                   marginRight: 10,
                 }}
-                src="/assets/images/consulting/contents/face04.png"
+                src="./assets/images/consulting/contents/face04.png"
                 alt="face04"
               />
               <div>조금만 개선하면 당신도 전문가!</div>
@@ -305,7 +305,7 @@ function ProductDiagnosisCard(props) {
                   height: 16,
                   marginRight: 10,
                 }}
-                src="/assets/images/consulting/contents/face05.png"
+                src="./assets/images/consulting/contents/face05.png"
                 alt="face05"
               />
               <div>흐음... 처음부터 하나씩 차근차근 해보아요!</div>

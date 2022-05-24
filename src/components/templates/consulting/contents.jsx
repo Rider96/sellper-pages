@@ -85,7 +85,7 @@ function Contents() {
                   width: 29,
                   height: 29,
                 }}
-                src="/assets/images/consulting/contents/contents.png"
+                src="./assets/images/consulting/contents/contents.png"
                 alt="contents"
               />
             </div>

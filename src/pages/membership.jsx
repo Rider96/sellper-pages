@@ -81,7 +81,7 @@ function Membership(props) {
                     width: isSmall ? 19 : 28.99,
                     height: isSmall ? 20 : 29.97,
                   }}
-                  src="/assets/icons/membership.png"
+                  src="./assets/icons/membership.png"
                   alt="membership"
                 />
               </div>

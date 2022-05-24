@@ -53,7 +53,7 @@ const ExcelDownload = (props) => {
           marginLeft: 4,
           marginBottom: 4,
         }}
-        src="/assets/icons/download.png"
+        src="./assets/icons/download.png"
         alt="download"
       />
     </ButtonWrapper>

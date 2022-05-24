@@ -120,7 +120,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -177,7 +177,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -215,7 +215,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -252,7 +252,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -290,7 +290,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -339,7 +339,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -376,7 +376,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -414,7 +414,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div
@@ -467,7 +467,7 @@ function BottomCardM(props) {
                   height: 7,
                   marginLeft: 5,
                 }}
-                src="/assets/icons/up_red02.png"
+                src="./assets/icons/up_red02.png"
                 alt="up_red02"
               />
               <div

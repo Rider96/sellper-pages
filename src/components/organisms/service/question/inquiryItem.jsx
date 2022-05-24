@@ -38,7 +38,7 @@ function InquiryItem(props) {
                 height: 13,
                 marginTop: 3,
               }}
-              src="/assets/icons/lock.png"
+              src="./assets/icons/lock.png"
               alt="lock"
             />
 

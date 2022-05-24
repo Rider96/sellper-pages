@@ -103,7 +103,7 @@ function InfoBasic(props) {
                     width: 18,
                     height: 18,
                   }}
-                  src="/assets/icons/radio_d.png"
+                  src="./assets/icons/radio_d.png"
                   alt="radio_d"
                 />
                 <div style={{ marginRight: 50 }}>동의</div>
@@ -113,7 +113,7 @@ function InfoBasic(props) {
                     width: 18,
                     height: 18,
                   }}
-                  src="/assets/icons/radio_a.png"
+                  src="./assets/icons/radio_a.png"
                   alt="radio_a"
                 />
                 <div>동의 안함</div>

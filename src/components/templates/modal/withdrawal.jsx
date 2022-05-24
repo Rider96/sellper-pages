@@ -64,7 +64,7 @@ function Withdrawal(props) {
             height: 32,
             marginBottom: 6,
           }}
-          src="/assets/icons/cry.png"
+          src="./assets/icons/cry.png"
           alt="cry"
         />
 

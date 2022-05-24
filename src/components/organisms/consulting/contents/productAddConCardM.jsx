@@ -96,7 +96,7 @@ function ProductAddConCardM(props) {
               marginLeft: 7,
               marginBottom: 2,
             }}
-            src="/assets/images/consulting/contents/icon1_01.png"
+            src="./assets/images/consulting/contents/icon1_01.png"
             alt="icon1_01"
           />
         </div>
@@ -115,7 +115,7 @@ function ProductAddConCardM(props) {
                 height: 18,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon1_02.png"
+              src="./assets/images/consulting/contents/icon1_02.png"
               alt="icon1_02"
             />
           </LeftLabel>
@@ -140,7 +140,7 @@ function ProductAddConCardM(props) {
                 height: 18,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon1_03.png"
+              src="./assets/images/consulting/contents/icon1_03.png"
               alt="icon1_03"
             />
           </LeftLabel>
@@ -185,7 +185,7 @@ function ProductAddConCardM(props) {
                 height: 16,
                 marginRight: 12,
               }}
-              src="/assets/images/consulting/contents/icon1_04.png"
+              src="./assets/images/consulting/contents/icon1_04.png"
               alt="icon1_04"
             />
           </LeftLabel>
@@ -212,7 +212,7 @@ function ProductAddConCardM(props) {
                 height: 13,
                 marginRight: 11,
               }}
-              src="/assets/images/consulting/contents/icon1_05.png"
+              src="./assets/images/consulting/contents/icon1_05.png"
               alt="icon1_05"
             />
           </LeftLabel>
@@ -237,7 +237,7 @@ function ProductAddConCardM(props) {
                 height: 18,
                 marginRight: 15,
               }}
-              src="/assets/images/consulting/contents/icon1_06.png"
+              src="./assets/images/consulting/contents/icon1_06.png"
               alt="icon1_06"
             />
           </LeftLabel>
@@ -266,7 +266,7 @@ function ProductAddConCardM(props) {
                 height: 17,
                 marginRight: 11,
               }}
-              src="/assets/images/consulting/contents/icon1_07.png"
+              src="./assets/images/consulting/contents/icon1_07.png"
               alt="icon1_07"
             />
           </LeftLabel>

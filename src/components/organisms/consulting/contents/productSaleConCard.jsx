@@ -100,7 +100,7 @@ function ProductSaleConCard(props) {
               height: 18,
               marginLeft: 8,
             }}
-            src="/assets/images/consulting/contents/icon2_01.png"
+            src="./assets/images/consulting/contents/icon2_01.png"
             alt="icon2_01"
           />
         </div>
@@ -119,7 +119,7 @@ function ProductSaleConCard(props) {
                 height: 16,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon2_02.png"
+              src="./assets/images/consulting/contents/icon2_02.png"
               alt="icon2_02"
             />
             <LeftValue>판매량</LeftValue>
@@ -138,7 +138,7 @@ function ProductSaleConCard(props) {
                 height: 17,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon2_03.png"
+              src="./assets/images/consulting/contents/icon2_03.png"
               alt="icon2_03"
             />
             <LeftValue>평점</LeftValue>
@@ -157,7 +157,7 @@ function ProductSaleConCard(props) {
                 height: 18,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon2_04.png"
+              src="./assets/images/consulting/contents/icon2_04.png"
               alt="icon2_04"
             />
             <LeftValue>포토리뷰</LeftValue>
@@ -176,7 +176,7 @@ function ProductSaleConCard(props) {
                 height: 16,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon2_05.png"
+              src="./assets/images/consulting/contents/icon2_05.png"
               alt="icon2_05"
             />
             <LeftValue>평균 배송일</LeftValue>
@@ -195,7 +195,7 @@ function ProductSaleConCard(props) {
                 height: 14,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon2_06.png"
+              src="./assets/images/consulting/contents/icon2_06.png"
               alt="icon2_06"
             />
             <LeftValue>판매자 답변</LeftValue>
@@ -218,7 +218,7 @@ function ProductSaleConCard(props) {
                 height: 13,
                 marginRight: 10,
               }}
-              src="/assets/images/consulting/contents/icon2_07.png"
+              src="./assets/images/consulting/contents/icon2_07.png"
               alt="icon2_07"
             />
             <LeftValue>쿠폰</LeftValue>
