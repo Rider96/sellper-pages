@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sellper-pages/static/css/main.a880db6d.css",
+    "main.js": "/sellper-pages/static/js/main.eb854205.js",
+    "static/js/787.45d56205.chunk.js": "/sellper-pages/static/js/787.45d56205.chunk.js",
+    "index.html": "/sellper-pages/index.html",
+    "static/media/default.less": "/sellper-pages/static/media/default.003f90b383291c3b90da.less",
+    "static/media/index.less": "/sellper-pages/static/media/index.512735b3dccd7d4b3088.less",
+    "main.a880db6d.css.map": "/sellper-pages/static/css/main.a880db6d.css.map",
+    "main.eb854205.js.map": "/sellper-pages/static/js/main.eb854205.js.map",
+    "787.45d56205.chunk.js.map": "/sellper-pages/static/js/787.45d56205.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a880db6d.css",
+    "static/js/main.eb854205.js"
+  ]
+}
