@@ -49,7 +49,7 @@ function QuestionItem(props) {
                   width: isSmall ? 10 : 12,
                   height: isSmall ? 11 : 13,
                 }}
-                src="./sellper-pages/assets/icons/q.png"
+                src="./assets/icons/q.png"
                 alt="q"
               />
             </div>
@@ -77,8 +77,8 @@ function QuestionItem(props) {
               }}
               src={
                 isSmall
-                  ? "./sellper-pages/assets/icons/menu_up3.png"
-                  : "./sellper-pages/assets/icons/up_arrow_gray.png"
+                  ? "./assets/icons/menu_up3.png"
+                  : "./assets/icons/up_arrow_gray.png"
               }
               alt="up_arrow_gray"
             />
@@ -93,8 +93,8 @@ function QuestionItem(props) {
               }}
               src={
                 isSmall
-                  ? "./sellper-pages/assets/icons/menu_down3.png"
-                  : "./sellper-pages/assets/icons/menu_down2.png"
+                  ? "./assets/icons/menu_down3.png"
+                  : "./assets/icons/menu_down2.png"
               }
               alt="menu_down2"
             />
@@ -135,7 +135,7 @@ function QuestionItem(props) {
                     height: isSmall ? 10 : 12,
                     marginLeft: isSmall ? 0 : 2,
                   }}
-                  src="./sellper-pages/assets/icons/a.png"
+                  src="./assets/icons/a.png"
                   alt="a"
                 />
               </div>

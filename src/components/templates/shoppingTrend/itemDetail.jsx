@@ -224,9 +224,7 @@ function ItemDetail() {
                   last={true}
                   rank={"1"}
                   name={"제주삼다수 무라벨"}
-                  image={
-                    "./sellper-pages/assets/images/shoppingTrend/water01.png"
-                  }
+                  image={"./assets/images/shoppingTrend/water01.png"}
                   isDetail={true}
                 />
               </div>
@@ -317,7 +315,7 @@ function ItemDetail() {
                         width: 18,
                         height: 18,
                       }}
-                      src="./sellper-pages/assets/icons/radio_a.png"
+                      src="./assets/icons/radio_a.png"
                       alt="radio_a"
                     />
                   ) : (
@@ -331,7 +329,7 @@ function ItemDetail() {
                         width: 18,
                         height: 18,
                       }}
-                      src="./sellper-pages/assets/icons/radio_d.png"
+                      src="./assets/icons/radio_d.png"
                       alt="radio_d"
                     />
                   )}
@@ -357,7 +355,7 @@ function ItemDetail() {
                         width: 18,
                         height: 18,
                       }}
-                      src="./sellper-pages/assets/icons/radio_d.png"
+                      src="./assets/icons/radio_d.png"
                       alt="radio_d"
                     />
                   ) : (
@@ -371,7 +369,7 @@ function ItemDetail() {
                         width: 18,
                         height: 18,
                       }}
-                      src="./sellper-pages/assets/icons/radio_a2.png"
+                      src="./assets/icons/radio_a2.png"
                       alt="radio_a2"
                     />
                   )}
@@ -442,7 +440,7 @@ function ItemDetail() {
                               width: 12,
                               height: 12,
                             }}
-                            src="./sellper-pages/assets/icons/calendar.png"
+                            src="./assets/icons/calendar.png"
                             alt="calendar"
                           />
                         }
@@ -471,7 +469,7 @@ function ItemDetail() {
                               width: 12,
                               height: 12,
                             }}
-                            src="./sellper-pages/assets/icons/calendar.png"
+                            src="./assets/icons/calendar.png"
                             alt="calendar"
                           />
                         }

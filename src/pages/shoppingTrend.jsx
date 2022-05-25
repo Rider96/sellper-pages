@@ -199,7 +199,7 @@ function ShoppingTrend(props) {
                     width: isSmall ? 27 : 31,
                     height: isSmall ? 22.66 : 26.01,
                   }}
-                  src="./sellper-pages/assets/icons/shoppingTrend.png"
+                  src="./assets/icons/shoppingTrend.png"
                   alt="shoppingTrend"
                 />
               </div>

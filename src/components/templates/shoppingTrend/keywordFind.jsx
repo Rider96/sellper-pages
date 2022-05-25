@@ -90,7 +90,7 @@ function KeywordFind() {
                           width: 12,
                           height: 12,
                         }}
-                        src="./sellper-pages/assets/icons/calendar.png"
+                        src="./assets/icons/calendar.png"
                         alt="calendar"
                       />
                     }
@@ -119,7 +119,7 @@ function KeywordFind() {
                           width: 12,
                           height: 12,
                         }}
-                        src="./sellper-pages/assets/icons/calendar.png"
+                        src="./assets/icons/calendar.png"
                         alt="calendar"
                       />
                     }

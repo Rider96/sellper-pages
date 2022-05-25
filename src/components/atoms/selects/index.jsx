@@ -12,7 +12,7 @@ const Select = (props) => {
   return (
     <div className="select-wrapper" style={props.wrapperStyle}>
       <img
-        src="./sellper-pages/assets/icons/drop_down.png"
+        src="./assets/icons/drop_down.png"
         alt="drop_down"
         className="select-icon"
       ></img>

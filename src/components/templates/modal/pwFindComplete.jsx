@@ -62,7 +62,7 @@ function PWFindComplete(props) {
             height: 32,
             marginBottom: 6,
           }}
-          src="./sellper-pages/assets/icons/smile.png"
+          src="./assets/icons/smile.png"
           alt="smile"
         />
 

@@ -31,7 +31,7 @@ function HeaderM(props) {
           width: 20,
           height: 12,
         }}
-        src="./sellper-pages/assets/icons/menu_m.png"
+        src="./assets/icons/menu_m.png"
         alt="menu_m"
       />
       <div
@@ -84,7 +84,7 @@ function HeaderM(props) {
             width: 22,
             height: 22,
           }}
-          src="./sellper-pages/assets/icons/mypage_m.png"
+          src="./assets/icons/mypage_m.png"
           alt="mypage_m"
         />
       ) : null}

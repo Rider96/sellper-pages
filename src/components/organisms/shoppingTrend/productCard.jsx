@@ -100,105 +100,105 @@ function ProductCard(props) {
             last={false}
             rank={"1"}
             name={"제주삼다수 무라벨"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water01.png"}
+            image={"./assets/images/shoppingTrend/water01.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"2"}
             name={"[직영] 롯데칠성 아이시스"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water02.png"}
+            image={"./assets/images/shoppingTrend/water02.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"3"}
             name={"삼다수 2L"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water03.png"}
+            image={"./assets/images/shoppingTrend/water03.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"4"}
             name={"스파클 생수 2L 48병"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water04.png"}
+            image={"./assets/images/shoppingTrend/water04.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"5"}
             name={"박스포장 제주 삼다수"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water05.png"}
+            image={"./assets/images/shoppingTrend/water05.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"6"}
             name={"제주 삼다수 아이시스"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water06.png"}
+            image={"./assets/images/shoppingTrend/water06.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"7"}
             name={"제주삼다수 무라벨"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water07.png"}
+            image={"./assets/images/shoppingTrend/water07.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"8"}
             name={"[직영] 롯데칠성 아이시스"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water08.png"}
+            image={"./assets/images/shoppingTrend/water08.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"9"}
             name={"삼다수 2L"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water01.png"}
+            image={"./assets/images/shoppingTrend/water01.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"10"}
             name={"제주삼다수 무라벨"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water02.png"}
+            image={"./assets/images/shoppingTrend/water02.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"11"}
             name={"[직영] 롯데칠성 아이시스"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water07.png"}
+            image={"./assets/images/shoppingTrend/water07.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"12"}
             name={"제주삼다수 무라벨"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water05.png"}
+            image={"./assets/images/shoppingTrend/water05.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"13"}
             name={"제주 삼다수 아이시스"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water04.png"}
+            image={"./assets/images/shoppingTrend/water04.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={false}
             rank={"14"}
             name={"제주삼다수 무라벨"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water08.png"}
+            image={"./assets/images/shoppingTrend/water08.png"}
           />
           <ProductItem
             itemClick={props.itemClick}
             last={true}
             rank={"15"}
             name={"제주 삼다수 아이시스"}
-            image={"./sellper-pages/assets/images/shoppingTrend/water03.png"}
+            image={"./assets/images/shoppingTrend/water03.png"}
           />
         </ScrollYContainer>
       </div>

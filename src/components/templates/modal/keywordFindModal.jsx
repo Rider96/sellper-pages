@@ -47,7 +47,7 @@ function KeywordFindModal(props) {
               height: 13,
               cursor: "pointer",
             }}
-            src="./sellper-pages/assets/icons/modal_close2.png"
+            src="./assets/icons/modal_close2.png"
             alt="modal_close2"
           />
         </div>

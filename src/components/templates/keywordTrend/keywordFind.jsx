@@ -154,7 +154,7 @@ function KeywordFind() {
                   width: 35.01,
                   height: 23.01,
                 }}
-                src="./sellper-pages/assets/icons/keyword_f.png"
+                src="./assets/icons/keyword_f.png"
                 alt="keyword_f"
               />
             </div>
@@ -600,7 +600,7 @@ function KeywordFind() {
                           marginRight: 6,
                           marginLeft: 6,
                         }}
-                        src="./sellper-pages/assets/icons/right_arrow_gray.png"
+                        src="./assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>식품냉동/간편조리식품</div>
@@ -611,7 +611,7 @@ function KeywordFind() {
                           marginRight: 6,
                           marginLeft: 6,
                         }}
-                        src="./sellper-pages/assets/icons/right_arrow_gray.png"
+                        src="./assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>즉석국/즉석탕</div>

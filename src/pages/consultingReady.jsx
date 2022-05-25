@@ -70,7 +70,7 @@ function ConsultingReady(props) {
             width: isSmall ? 200 : 211.32,
             height: isSmall ? 110 : 120,
           }}
-          src="./sellper-pages/assets/images/rocket_ready.png"
+          src="./assets/images/rocket_ready.png"
           alt="rocket_ready"
         />
         <div

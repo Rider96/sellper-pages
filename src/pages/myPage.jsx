@@ -108,7 +108,7 @@ function MyPage(props) {
                     width: isSmall ? 23 : 34,
                     height: isSmall ? 23 : 34,
                   }}
-                  src="./sellper-pages/assets/icons/mypage.png"
+                  src="./assets/icons/mypage.png"
                   alt="mypage"
                 />
               </div>

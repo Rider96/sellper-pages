@@ -360,7 +360,7 @@ function SideMenu(props) {
                 width: 15,
                 height: 15,
               }}
-              src="./sellper-pages/assets/icons/close.png"
+              src="./assets/icons/close.png"
               alt="close"
               onClick={() => props.close(false)}
             />
@@ -380,7 +380,7 @@ function SideMenu(props) {
                       width: 13,
                       height: 7,
                     }}
-                    src="./sellper-pages/assets/icons/menu_up.png"
+                    src="./assets/icons/menu_up.png"
                     alt="menu_up"
                     onClick={() => {
                       setItemClickedList({
@@ -396,7 +396,7 @@ function SideMenu(props) {
                       width: 13,
                       height: 7,
                     }}
-                    src="./sellper-pages/assets/icons/menu_down.png"
+                    src="./assets/icons/menu_down.png"
                     alt="menu_down"
                     onClick={() => {
                       setItemClickedList({
@@ -461,7 +461,7 @@ function SideMenu(props) {
                       width: 13,
                       height: 7,
                     }}
-                    src="./sellper-pages/assets/icons/menu_up.png"
+                    src="./assets/icons/menu_up.png"
                     alt="menu_up"
                     onClick={() => {
                       setItemClickedList({
@@ -477,7 +477,7 @@ function SideMenu(props) {
                       width: 13,
                       height: 7,
                     }}
-                    src="./sellper-pages/assets/icons/menu_down.png"
+                    src="./assets/icons/menu_down.png"
                     alt="menu_down"
                     onClick={() => {
                       setItemClickedList({
@@ -551,7 +551,7 @@ function SideMenu(props) {
                       width: 13,
                       height: 7,
                     }}
-                    src="./sellper-pages/assets/icons/menu_up.png"
+                    src="./assets/icons/menu_up.png"
                     alt="menu_up"
                     onClick={() => {
                       setItemClickedList({
@@ -567,7 +567,7 @@ function SideMenu(props) {
                       width: 13,
                       height: 7,
                     }}
-                    src="./sellper-pages/assets/icons/menu_down.png"
+                    src="./assets/icons/menu_down.png"
                     alt="menu_down"
                     onClick={() => {
                       setItemClickedList({

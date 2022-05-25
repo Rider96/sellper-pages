@@ -133,7 +133,7 @@ function Keyword(props) {
                   marginLeft: 8,
                   cursor: "pointer",
                 }}
-                src="./sellper-pages/assets/icons/question.png"
+                src="./assets/icons/question.png"
                 alt="question"
               />
               {isMouseOver ? (

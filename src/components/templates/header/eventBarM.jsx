@@ -40,7 +40,7 @@ function EventBarM() {
               height: 12,
               marginBottom: 3,
             }}
-            src="./sellper-pages/assets/icons/close.png"
+            src="./assets/icons/close.png"
             alt="close"
           />
         </div>

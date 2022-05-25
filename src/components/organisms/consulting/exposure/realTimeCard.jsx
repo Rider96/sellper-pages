@@ -99,7 +99,7 @@ function RealTimeCard(props) {
                   height: 52,
                   marginRight: 12,
                 }}
-                src="./sellper-pages/assets/images/consulting/exposure/product01.png"
+                src="./assets/images/consulting/exposure/product01.png"
                 alt="product01"
               />
               <div
@@ -200,7 +200,7 @@ function RealTimeCard(props) {
                   height: 52,
                   marginRight: 12,
                 }}
-                src="./sellper-pages/assets/images/consulting/exposure/product01.png"
+                src="./assets/images/consulting/exposure/product01.png"
                 alt="product01"
               />
               <div
@@ -301,7 +301,7 @@ function RealTimeCard(props) {
                   height: 52,
                   marginRight: 12,
                 }}
-                src="./sellper-pages/assets/images/consulting/exposure/product01.png"
+                src="./assets/images/consulting/exposure/product01.png"
                 alt="product01"
               />
               <div
@@ -402,7 +402,7 @@ function RealTimeCard(props) {
                   height: 52,
                   marginRight: 12,
                 }}
-                src="./sellper-pages/assets/images/consulting/exposure/product01.png"
+                src="./assets/images/consulting/exposure/product01.png"
                 alt="product01"
               />
               <div

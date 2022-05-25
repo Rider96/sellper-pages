@@ -88,7 +88,7 @@ function ContentsM() {
                   width: 24,
                   height: 24,
                 }}
-                src="./sellper-pages/assets/images/consulting/contents/contents.png"
+                src="./assets/images/consulting/contents/contents.png"
                 alt="contents"
               />
             </div>
@@ -173,7 +173,7 @@ function ContentsM() {
                       width: 49,
                       height: 50,
                     }}
-                    src="./sellper-pages/assets/images/consulting/contents/product.png"
+                    src="./assets/images/consulting/contents/product.png"
                     alt="product"
                   />
                   <div
@@ -216,7 +216,7 @@ function ContentsM() {
                           marginRight: 4,
                           marginLeft: 4,
                         }}
-                        src="./sellper-pages/assets/icons/right_arrow_gray.png"
+                        src="./assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>식품냉동/간편조리식품</div>
@@ -227,7 +227,7 @@ function ContentsM() {
                           marginRight: 4,
                           marginLeft: 4,
                         }}
-                        src="./sellper-pages/assets/icons/right_arrow_gray.png"
+                        src="./assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>즉석국/즉석탕</div>

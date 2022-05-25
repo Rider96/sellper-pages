@@ -62,7 +62,7 @@ function RegisterComplete(props) {
             height: 32,
             marginBottom: 6,
           }}
-          src="./sellper-pages/assets/icons/cool.png"
+          src="./assets/icons/cool.png"
           alt="cool"
         />
 

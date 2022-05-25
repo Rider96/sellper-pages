@@ -87,7 +87,7 @@ function ProductItemM(props) {
                   marginRight: 1,
                   marginBottom: 1,
                 }}
-                src={"./sellper-pages/assets/icons/up_red.png"}
+                src={"./assets/icons/up_red.png"}
                 alt="up_red"
               />
               <div
@@ -118,7 +118,7 @@ function ProductItemM(props) {
                   marginRight: 1,
                   marginBottom: 1,
                 }}
-                src={"./sellper-pages/assets/icons/down_blue.png"}
+                src={"./assets/icons/down_blue.png"}
                 alt="down_blue"
               />
               <div
@@ -170,7 +170,7 @@ function ProductItemM(props) {
                   marginRight: 4,
                   marginLeft: 4,
                 }}
-                src="./sellper-pages/assets/icons/right_arrow.png"
+                src="./assets/icons/right_arrow.png"
                 alt="right_arrow"
               />
               <div>음료</div>
@@ -181,7 +181,7 @@ function ProductItemM(props) {
                   marginRight: 4,
                   marginLeft: 4,
                 }}
-                src="./sellper-pages/assets/icons/right_arrow.png"
+                src="./assets/icons/right_arrow.png"
                 alt="right_arrow"
               />
               <div>생수</div>

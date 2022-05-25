@@ -110,7 +110,7 @@ function CategoryFindM() {
                     height: 15,
                     marginRight: 26,
                   }}
-                  src="./sellper-pages/assets/icons/sub_menu.png"
+                  src="./assets/icons/sub_menu.png"
                   alt="sub_menu"
                 />
               </div>
