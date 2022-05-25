@@ -17,7 +17,7 @@ import PasswordFind from "../pages/passwordFind";
 const Router = () => {
   return (
     <Switch>
-      <Route exact={true} path="/main" component={Main} />
+      <Route exact={true} path="/" component={Main} />
 
       <Route path="/shoppingTrend/:key" component={ShoppingTrend} />
       <Route path="/shoppingTrend" component={ShoppingTrend} />
@@ -46,7 +46,7 @@ const Router = () => {
       <Route path="/passwordFind" component={PasswordFind} />
 
       {/* Not Found */}
-      <Route component={() => <Redirect to="/main" />} />
+      <Route component={() => <Redirect to="/" />} />
     </Switch>
   );
 };

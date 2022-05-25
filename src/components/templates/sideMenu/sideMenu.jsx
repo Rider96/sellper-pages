@@ -295,7 +295,7 @@ function SideMenu(props) {
 
   const logoutSubmit = () => {
     localStorage.setItem("isLogin", "false");
-    history.replace("/main");
+    history.replace("/");
   };
 
   return (
@@ -324,7 +324,7 @@ function SideMenu(props) {
               }}
             >
               <div
-                onClick={() => history.replace("/main")}
+                onClick={() => history.replace("/")}
                 style={{
                   display: "flex",
                   alignItems: "flex-end",

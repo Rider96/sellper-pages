@@ -264,7 +264,7 @@ function Header(props) {
     <Layout>
       <MainContainer>
         <Link
-          to={"/main"}
+          to={"/"}
           style={{
             marginRight: 72,
             marginTop: 2,
@@ -323,7 +323,7 @@ function Header(props) {
               });
             }
           }}
-          to={"/main"}
+          to={"/"}
           style={{
             marginRight: 56,
           }}
@@ -553,7 +553,7 @@ function Header(props) {
             <LinkEtcButton02
               onClick={() => {
                 localStorage.setItem("isLogin", "false");
-                history.replace("/main");
+                history.replace("/");
               }}
               style={{}}
             >

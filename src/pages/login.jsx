@@ -111,7 +111,7 @@ function Login(props) {
       });
 
       localStorage.setItem("isLogin", "true");
-      history.replace("/main");
+      history.replace("/");
     }
   };
 

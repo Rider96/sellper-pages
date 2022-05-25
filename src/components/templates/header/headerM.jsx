@@ -45,7 +45,7 @@ function HeaderM(props) {
         }}
       >
         <div
-          onClick={() => history.replace("/main")}
+          onClick={() => history.replace("/")}
           style={{
             display: "flex",
             alignItems: "flex-end",

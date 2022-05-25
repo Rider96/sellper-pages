@@ -81,7 +81,7 @@ function Withdrawal(props) {
           <GrayTextButton
             onClick={() => {
               localStorage.setItem("isLogin", "false");
-              history.replace("/main");
+              history.replace("/");
             }}
             style={{ width: 139, fontSize: 15 }}
           >
