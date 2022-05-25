@@ -127,7 +127,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 16,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </BasicLabel>
@@ -138,7 +138,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 26,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -149,7 +149,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -165,7 +165,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 16,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </BasicLabel>
@@ -176,7 +176,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 26,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -187,7 +187,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -212,7 +212,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 26,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -223,7 +223,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -257,7 +257,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -273,7 +273,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 16,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </BasicLabel>
@@ -284,7 +284,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 26,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </StandardLabel>
@@ -295,7 +295,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -364,7 +364,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>
@@ -402,7 +402,7 @@ function BottomCardM(props) {
                 height: 7,
                 marginLeft: 36,
               }}
-              src="sellper-pages/assets/icons/check.png"
+              src="./sellper-pages/assets/icons/check.png"
               alt="check"
             />
           </PremiumLabel>

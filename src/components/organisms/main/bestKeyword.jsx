@@ -97,7 +97,7 @@ function BestKeyword(props) {
                 height: isSmall ? 8 : 11,
                 marginRight: isSmall ? 2 : 3,
               }}
-              src="sellper-pages/assets/icons/up_red.png"
+              src="./sellper-pages/assets/icons/up_red.png"
               alt="up_red"
             />
           ) : props.result === "down" ? (
@@ -107,7 +107,7 @@ function BestKeyword(props) {
                 height: isSmall ? 8 : 11,
                 marginRight: isSmall ? 2 : 3,
               }}
-              src="sellper-pages/assets/icons/down_blue.png"
+              src="./sellper-pages/assets/icons/down_blue.png"
               alt="down_blue"
             />
           ) : (
@@ -118,7 +118,7 @@ function BestKeyword(props) {
                 marginRight: isSmall ? 0 : 6,
                 marginLeft: isSmall ? 4 : 0,
               }}
-              src="sellper-pages/assets/icons/no_change.png"
+              src="./sellper-pages/assets/icons/no_change.png"
               alt="no_change"
             />
           )}

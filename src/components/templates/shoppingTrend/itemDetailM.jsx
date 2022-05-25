@@ -257,7 +257,7 @@ function ItemDetailM() {
                           marginRight: 1,
                           marginBottom: 1,
                         }}
-                        src={"sellper-pages/assets/icons/up_red.png"}
+                        src={"./sellper-pages/assets/icons/up_red.png"}
                         alt="up_red"
                       />
                       <div
@@ -288,7 +288,7 @@ function ItemDetailM() {
                           marginRight: 12,
                         }}
                         src={
-                          "sellper-pages/assets/images/shoppingTrend/water01.png"
+                          "./sellper-pages/assets/images/shoppingTrend/water01.png"
                         }
                         alt="water"
                       />
@@ -318,7 +318,7 @@ function ItemDetailM() {
                               marginRight: 4,
                               marginLeft: 4,
                             }}
-                            src="sellper-pages/assets/icons/right_arrow.png"
+                            src="./sellper-pages/assets/icons/right_arrow.png"
                             alt="right_arrow"
                           />
                           <div>음료</div>
@@ -329,7 +329,7 @@ function ItemDetailM() {
                               marginRight: 4,
                               marginLeft: 4,
                             }}
-                            src="sellper-pages/assets/icons/right_arrow.png"
+                            src="./sellper-pages/assets/icons/right_arrow.png"
                             alt="right_arrow"
                           />
                           <div>생수</div>
@@ -496,7 +496,7 @@ function ItemDetailM() {
                     height: 15,
                     marginRight: 26,
                   }}
-                  src="sellper-pages/assets/icons/sub_menu.png"
+                  src="./sellper-pages/assets/icons/sub_menu.png"
                   alt="sub_menu"
                 />
               </div>

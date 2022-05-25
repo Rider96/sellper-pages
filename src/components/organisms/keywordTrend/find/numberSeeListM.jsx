@@ -289,7 +289,7 @@ function NumberSeeListM(props) {
                   cursor: "pointer",
                   marginLeft: 5,
                 }}
-                src="sellper-pages/assets/icons/question.png"
+                src="./sellper-pages/assets/icons/question.png"
                 alt="question"
               />
             </KeywordL>
@@ -334,7 +334,7 @@ function NumberSeeListM(props) {
                     cursor: "pointer",
                     marginBottom: 2,
                   }}
-                  src="sellper-pages/assets/icons/table_up.png"
+                  src="./sellper-pages/assets/icons/table_up.png"
                   alt="table_up"
                 />
                 <img
@@ -366,7 +366,7 @@ function NumberSeeListM(props) {
                     height: 8,
                     cursor: "pointer",
                   }}
-                  src="sellper-pages/assets/icons/table_down.png"
+                  src="./sellper-pages/assets/icons/table_down.png"
                   alt="table_down"
                 />
               </div>
@@ -412,7 +412,7 @@ function NumberSeeListM(props) {
                     cursor: "pointer",
                     marginBottom: 2,
                   }}
-                  src="sellper-pages/assets/icons/table_up.png"
+                  src="./sellper-pages/assets/icons/table_up.png"
                   alt="table_up"
                 />
                 <img
@@ -444,7 +444,7 @@ function NumberSeeListM(props) {
                     height: 8,
                     cursor: "pointer",
                   }}
-                  src="sellper-pages/assets/icons/table_down.png"
+                  src="./sellper-pages/assets/icons/table_down.png"
                   alt="table_down"
                 />
               </div>
@@ -490,7 +490,7 @@ function NumberSeeListM(props) {
                     cursor: "pointer",
                     marginBottom: 2,
                   }}
-                  src="sellper-pages/assets/icons/table_up.png"
+                  src="./sellper-pages/assets/icons/table_up.png"
                   alt="table_up"
                 />
                 <img
@@ -522,7 +522,7 @@ function NumberSeeListM(props) {
                     height: 8,
                     cursor: "pointer",
                   }}
-                  src="sellper-pages/assets/icons/table_down.png"
+                  src="./sellper-pages/assets/icons/table_down.png"
                   alt="table_down"
                 />
               </div>
@@ -568,7 +568,7 @@ function NumberSeeListM(props) {
                     cursor: "pointer",
                     marginBottom: 2,
                   }}
-                  src="sellper-pages/assets/icons/table_up.png"
+                  src="./sellper-pages/assets/icons/table_up.png"
                   alt="table_up"
                 />
                 <img
@@ -600,7 +600,7 @@ function NumberSeeListM(props) {
                     height: 8,
                     cursor: "pointer",
                   }}
-                  src="sellper-pages/assets/icons/table_down.png"
+                  src="./sellper-pages/assets/icons/table_down.png"
                   alt="table_down"
                 />
               </div>

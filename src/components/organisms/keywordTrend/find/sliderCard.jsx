@@ -85,7 +85,7 @@ function SliderCard(props) {
                   width: 18,
                   height: 18,
                 }}
-                src="sellper-pages/assets/icons/radio_a.png"
+                src="./sellper-pages/assets/icons/radio_a.png"
                 alt="radio_a"
               />
             ) : (
@@ -97,7 +97,7 @@ function SliderCard(props) {
                   width: 18,
                   height: 18,
                 }}
-                src="sellper-pages/assets/icons/radio_d.png"
+                src="./sellper-pages/assets/icons/radio_d.png"
                 alt="radio_d"
               />
             )}

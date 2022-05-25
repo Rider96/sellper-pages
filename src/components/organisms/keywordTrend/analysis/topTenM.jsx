@@ -82,7 +82,7 @@ function TopTenM(props) {
                   width: 8,
                   height: 8,
                 }}
-                src="sellper-pages/assets/icons/impact.png"
+                src="./sellper-pages/assets/icons/impact.png"
                 alt="impact"
               />
             </div>
@@ -122,7 +122,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product01.png"
+                src="./sellper-pages/assets/images/keywordTrend/product01.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -136,7 +136,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product02.png"
+                src="./sellper-pages/assets/images/keywordTrend/product02.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -150,7 +150,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product03.png"
+                src="./sellper-pages/assets/images/keywordTrend/product03.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -164,7 +164,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product04.png"
+                src="./sellper-pages/assets/images/keywordTrend/product04.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -178,7 +178,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product05.png"
+                src="./sellper-pages/assets/images/keywordTrend/product05.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -192,7 +192,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product06.png"
+                src="./sellper-pages/assets/images/keywordTrend/product06.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -206,7 +206,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product07.png"
+                src="./sellper-pages/assets/images/keywordTrend/product07.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -220,7 +220,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product08.png"
+                src="./sellper-pages/assets/images/keywordTrend/product08.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -234,7 +234,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product09.png"
+                src="./sellper-pages/assets/images/keywordTrend/product09.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>
@@ -248,7 +248,7 @@ function TopTenM(props) {
                   height: 87,
                   marginBottom: 8,
                 }}
-                src="sellper-pages/assets/images/keywordTrend/product07.png"
+                src="./sellper-pages/assets/images/keywordTrend/product07.png"
                 alt="product01"
               />
               <Title>비비고사골곰탕</Title>

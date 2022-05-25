@@ -57,7 +57,7 @@ function DailyCardM(props) {
               height: 50,
               marginRight: 16,
             }}
-            src="sellper-pages/assets/images/consulting/exposure/product01.png"
+            src="./sellper-pages/assets/images/consulting/exposure/product01.png"
             alt="product01"
           />
           <div
@@ -133,7 +133,7 @@ function DailyCardM(props) {
               height: 50,
               marginRight: 16,
             }}
-            src="sellper-pages/assets/images/consulting/exposure/product01.png"
+            src="./sellper-pages/assets/images/consulting/exposure/product01.png"
             alt="product01"
           />
           <div
@@ -209,7 +209,7 @@ function DailyCardM(props) {
               height: 50,
               marginRight: 16,
             }}
-            src="sellper-pages/assets/images/consulting/exposure/product01.png"
+            src="./sellper-pages/assets/images/consulting/exposure/product01.png"
             alt="product01"
           />
           <div
@@ -281,7 +281,7 @@ function DailyCardM(props) {
               height: 50,
               marginRight: 16,
             }}
-            src="sellper-pages/assets/images/consulting/exposure/product01.png"
+            src="./sellper-pages/assets/images/consulting/exposure/product01.png"
             alt="product01"
           />
           <div

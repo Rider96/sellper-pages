@@ -31,7 +31,7 @@ function TopProductCard(props) {
               width: 81,
               height: 83,
             }}
-            src="sellper-pages/assets/images/consulting/contents/product.png"
+            src="./sellper-pages/assets/images/consulting/contents/product.png"
             alt="product"
           />
           <div
@@ -73,7 +73,7 @@ function TopProductCard(props) {
                   marginLeft: 6,
                   marginBottom: 2,
                 }}
-                src="sellper-pages/assets/icons/right_arrow_gray.png"
+                src="./sellper-pages/assets/icons/right_arrow_gray.png"
                 alt="right_arrow_gray"
               />
               <div>식품냉동/간편조리식품</div>
@@ -85,7 +85,7 @@ function TopProductCard(props) {
                   marginLeft: 6,
                   marginBottom: 2,
                 }}
-                src="sellper-pages/assets/icons/right_arrow_gray.png"
+                src="./sellper-pages/assets/icons/right_arrow_gray.png"
                 alt="right_arrow_gray"
               />
               <div>즉석국/즉석탕</div>

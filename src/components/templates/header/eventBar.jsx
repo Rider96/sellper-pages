@@ -56,7 +56,7 @@ function EventBar() {
               width: 4,
               height: 8,
             }}
-            src="sellper-pages/assets/icons/right_arrow.png"
+            src="./sellper-pages/assets/icons/right_arrow.png"
             alt="right_arrow"
           />
         </div>
@@ -73,7 +73,7 @@ function EventBar() {
               width: 12,
               height: 12,
             }}
-            src="sellper-pages/assets/icons/close.png"
+            src="./sellper-pages/assets/icons/close.png"
             alt="close"
           />
         </div>

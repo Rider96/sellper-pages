@@ -115,7 +115,7 @@ function StoreFind() {
                     height: 15,
                     marginRight: 26,
                   }}
-                  src="sellper-pages/assets/icons/sub_menu.png"
+                  src="./sellper-pages/assets/icons/sub_menu.png"
                   alt="sub_menu"
                 />
               </div>
@@ -144,7 +144,7 @@ function StoreFind() {
                       width: 48.8,
                       height: 50,
                     }}
-                    src="sellper-pages/assets/images/shoppingTrend/water08.png"
+                    src="./sellper-pages/assets/images/shoppingTrend/water08.png"
                     alt="water08"
                   />
                   <div
@@ -187,7 +187,7 @@ function StoreFind() {
                           marginRight: 4,
                           marginLeft: 4,
                         }}
-                        src="sellper-pages/assets/icons/right_arrow_gray.png"
+                        src="./sellper-pages/assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>음료</div>
@@ -198,7 +198,7 @@ function StoreFind() {
                           marginRight: 4,
                           marginLeft: 4,
                         }}
-                        src="sellper-pages/assets/icons/right_arrow_gray.png"
+                        src="./sellper-pages/assets/icons/right_arrow_gray.png"
                         alt="right_arrow_gray"
                       />
                       <div>생수</div>
